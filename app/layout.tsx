@@ -23,11 +23,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AETHER STUDIOS | Premium Architectural Streetwear",
+  title: "Peaceminusone Showcase Brand Website",
   description: "A study in monochrome, structure, and symmetry. Experience AETHER Studios' modern, premium luxury streetwear showcase, featuring architectural silhouettes and technical garments.",
   keywords: ["luxury streetwear", "minimalist fashion", "avant-garde", "monochrome collection", "technical streetwear"],
   openGraph: {
-    title: "AETHER STUDIOS",
+    title: "PEACEMINUSONE",
     description: "Premium architectural streetwear showcase.",
     type: "website",
   },
